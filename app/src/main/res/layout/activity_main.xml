@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="414dp"
+        android:layout_height="60dp"
+        android:background="#1837E4">
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_marginLeft="323dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/sey"/>
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:text="Basic"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="12sp"
+            android:layout_marginTop="15sp"
+            android:layout_marginLeft="-286dp"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="20dp"
+            android:src="@drawable/vip"
+            android:layout_marginLeft="233dp"
+            android:layout_marginTop="16dp"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="20dp"
+            android:src="@drawable/baseline_view_headline_24"
+            android:layout_marginLeft="-389dp"
+            android:layout_marginTop="19dp"
+
+            />
+
+
+
+    </LinearLayout>
+
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="30dp"
+            android:text="Miller Wilson"
+            android:textSize="17dp"
+            android:layout_marginLeft="-401dp"
+            android:layout_marginTop="89dp"
+            android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="69dp"
+        android:src="@drawable/user_2"
+        android:layout_marginLeft="168dp"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Harsh kumar"
+        android:textSize="17dp"
+        android:layout_marginLeft="-350dp"
+        android:layout_marginTop="139dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="129dp"
+        android:src="@drawable/harsh"
+        android:layout_marginLeft="171dp"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Dipak kumar"
+        android:textSize="17dp"
+        android:layout_marginLeft="-351dp"
+        android:layout_marginTop="194dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="186dp"
+        android:src="@drawable/dipak"
+        android:layout_marginLeft="171dp"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Kunal sharma"
+        android:textSize="17dp"
+        android:layout_marginLeft="-351dp"
+        android:layout_marginTop="254dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="249dp"
+        android:src="@drawable/harsh"
+        android:layout_marginLeft="171dp"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Sonu kumar"
+        android:textSize="17dp"
+        android:layout_marginLeft="-351dp"
+        android:layout_marginTop="314dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="309dp"
+        android:src="@drawable/dipak"
+        android:layout_marginLeft="171dp"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Vicky sharma"
+        android:textSize="17dp"
+        android:layout_marginLeft="-351dp"
+        android:layout_marginTop="374dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="369dp"
+        android:src="@drawable/harsh"
+        android:layout_marginLeft="171dp"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Abhishek"
+        android:textSize="17dp"
+        android:layout_marginLeft="-351dp"
+        android:layout_marginTop="434dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="429dp"
+        android:src="@drawable/dipak"
+        android:layout_marginLeft="171dp"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Raj kumar"
+        android:textSize="17dp"
+        android:layout_marginLeft="-351dp"
+        android:layout_marginTop="493dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="489dp"
+        android:src="@drawable/user_2"
+        android:layout_marginLeft="171dp"/>
+    <TextView
+    android:layout_width="120dp"
+    android:layout_height="30dp"
+    android:text="Ravi kumar"
+    android:textSize="17dp"
+    android:layout_marginLeft="-351dp"
+    android:layout_marginTop="553dp"
+    android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="549dp"
+        android:src="@drawable/dipak"
+        android:layout_marginLeft="171dp"/>
+
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Ajay kumar"
+        android:textSize="17dp"
+        android:layout_marginLeft="-351dp"
+        android:layout_marginTop="614dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="609dp"
+        android:src="@drawable/harsh"
+        android:layout_marginLeft="171dp"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:text="Suraj kumar"
+        android:textSize="17dp"
+        android:layout_marginLeft="-351dp"
+        android:layout_marginTop="674dp"
+        android:textColor="@color/black"/>
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="669dp"
+        android:src="@drawable/dipak"
+        android:layout_marginLeft="171dp"/>
+
+
+
+
+
+
+
+</LinearLayout>
